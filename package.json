@@ -9,6 +9,7 @@
     "prettier": "^2.8.8"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.15",
     "graphql": "^16.6.0",
     "graphql-yoga": "^4.0.0"
   }
